@@ -11,10 +11,6 @@
 
 - 🌱 I’m currently learning **Internet,etc**
 
-- 👯 I’m looking to collaborate on [-](-)
-
-- 💬 Ask me about **react, vue and gsap**
-
 - 📫 How to reach me **xmfile@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
